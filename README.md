@@ -4,13 +4,13 @@ Ejercicio práctico: construcción de tarjetas de perfil con diseño responsive,
 
 **Integrantes (tarjetas):** Antonio Obregon y Nancy Mina
 
-- Repositorio base: <https://github.com/uniajc-gperezm/responsive-design-media-query>
-- Demo (GitHub Pages): `https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/`
+- Repositorio base: https://github.com/uniajc-gperezm/responsive-design-media-query
+- Demo (GitHub Pages): `https://yanmarcos21-lgtm.github.io/responsive-design-media-query/
 
 ## Estructura
 
 ```
-responsive-cards/
+responsive-design-media-query/
 ├── css/
 │   └── styles.css
 ├── index.html
