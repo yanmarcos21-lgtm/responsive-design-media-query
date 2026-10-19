@@ -41,21 +41,6 @@ BEM (Block, Element, Modifier) nombra las clases según su función para que el 
 | 640px o más | Tarjetas lado a lado |
 | 1024px o más | Tarjetas más grandes y mayor separación |
 
-## Cómo publicar con GitHub Pages
-
-1. Crea un repositorio público en tu cuenta de GitHub y sube `index.html`, `README.md` y la carpeta `css`.
-2. Ve a **Settings → Pages**.
-3. En **Source**, elige **Deploy from a branch**, rama `main`, carpeta `/ (root)`, y guarda.
-4. Espera 1–2 minutos y abre la URL que GitHub te muestre. Pégala en este README y en la entrega de Teams.
-
-## Cómo usar fotos reales
-
-Reemplaza el `div.profile-card__avatar` por una imagen:
-
-```html
-<img class="profile-card__photo" src="img/antonio.jpg" alt="Antonio Obregon">
-```
-
 ## Recursos
 
 - Generador de clip-path: <https://clippy.f8.edu.vn/>
